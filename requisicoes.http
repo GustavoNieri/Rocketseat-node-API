@@ -2,7 +2,7 @@ POST http://localhost:3333/courses
 Content-Type: application/json
 
 {
-      "title": "Curso de Fastify"
+      "title": "Curso de Docker 2"
 }
 
 ###
@@ -11,4 +11,4 @@ GET http://localhost:3333/courses
 
 ###
 
-GET  http://localhost:3333/courses/6cae4f42-f854-4b5f-bc63-74d9590d8663
+GET  http://localhost:3333/courses/bac3bd9f-4926-4601-abf4-66e5df607410
