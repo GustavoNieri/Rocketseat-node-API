@@ -15,6 +15,20 @@
       "when": 1755878290293,
       "tag": "0001_bored_nuke",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1755983261393,
+      "tag": "0002_thick_paper_doll",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1755985023601,
+      "tag": "0003_young_la_nuit",
+      "breakpoints": true
     }
   ]
 }
