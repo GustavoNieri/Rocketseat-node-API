@@ -12,3 +12,12 @@ GET http://localhost:3333/courses
 ###
 
 GET  http://localhost:3333/courses/bac3bd9f-4926-4601-abf4-66e5df607410
+
+###
+POST http://localhost:3333/sessions
+Content-Type: application/json
+
+{
+      "email": "emailemailemail",
+      "password": "123456"
+}
